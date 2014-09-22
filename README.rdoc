@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/seanyao/travel_bill.png)](https://travis-ci.org/seanyao/travel_bill)
+[![Build Status](https://travis-ci.org/seanyao/travel_bill.png)]: https://travis-ci.org/seanyao/travel_bill
+
 
 == README
 
