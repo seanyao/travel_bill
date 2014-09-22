@@ -17,6 +17,11 @@ default: &default
   password:
   host: localhost
 
+sean:
+  <<: *default
+  database: travel_bill_sean
+  password: root
+
 development:
   <<: *default
   database: travel_bill_development
